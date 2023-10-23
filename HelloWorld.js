@@ -84,3 +84,4 @@ const data = (age=10) => {
 data();*/
 
 // const data = prompt("Enter a word");
+console.log("hello")
